@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/v2-sdk",
+  "name": "@phuphamdeltalabs/v2-sdk",
   "license": "MIT",
-  "version": "3.2.0",
+  "version": "1.0.3",
   "description": "🛠 An SDK for building applications on top of Uniswap V2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -24,7 +24,7 @@
   "dependencies": {
     "@ethersproject/address": "^5.0.0",
     "@ethersproject/solidity": "^5.0.0",
-    "@uniswap/sdk-core": "^4.0.2",
+    "@phuphamdeltalabs/sdkcore": "^5.0.0",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3"
   },
@@ -41,5 +41,8 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
