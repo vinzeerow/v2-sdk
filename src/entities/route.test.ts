@@ -1,4 +1,4 @@
-import { Ether, Token, WETH9, CurrencyAmount } from '@phuphamdeltalabs/sdkcore'
+import { Ether, Token, WETH9, CurrencyAmount } from '@tpvinh/sdk-core'
 import { Pair, Route } from './index'
 
 describe('Route', () => {

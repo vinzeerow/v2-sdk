@@ -1,6 +1,6 @@
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
-import { WETH9 as _WETH9, TradeType, Token, CurrencyAmount } from '@phuphamdeltalabs/sdkcore'
+import { WETH9 as _WETH9, TradeType, Token, CurrencyAmount } from '@tpvinh/sdk-core'
 import { Pair, Route, Trade } from '../index'
 
 const ADDRESSES = [

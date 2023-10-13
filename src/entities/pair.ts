@@ -1,4 +1,4 @@
-import { BigintIsh, Price, sqrt, Token, CurrencyAmount } from '@phuphamdeltalabs/sdkcore'
+import { BigintIsh, Price, sqrt, Token, CurrencyAmount } from '@tpvinh/sdk-core'
 import invariant from 'tiny-invariant'
 import JSBI from 'jsbi'
 import { pack, keccak256 } from '@ethersproject/solidity'

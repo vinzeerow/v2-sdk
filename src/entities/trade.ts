@@ -8,7 +8,7 @@ import {
   Price,
   sortedInsert,
   TradeType
-} from '@phuphamdeltalabs/sdkcore'
+} from '@tpvinh/sdk-core'
 import { ONE, ZERO } from '../constants'
 import invariant from 'tiny-invariant'
 

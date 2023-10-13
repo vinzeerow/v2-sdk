@@ -1,4 +1,4 @@
-import { Token, Currency, CurrencyAmount, Percent, TradeType, validateAndParseAddress } from '@phuphamdeltalabs/sdkcore'
+import { Token, Currency, CurrencyAmount, Percent, TradeType, validateAndParseAddress } from '@tpvinh/sdk-core'
 import { Trade } from './entities'
 import invariant from 'tiny-invariant'
 

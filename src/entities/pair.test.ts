@@ -1,4 +1,4 @@
-import { Token, WETH9, Price, CurrencyAmount } from '@phuphamdeltalabs/sdkcore'
+import { Token, WETH9, Price, CurrencyAmount } from '@tpvinh/sdk-core'
 import { InsufficientInputAmountError } from '../errors'
 import { computePairAddress, Pair } from './pair'
 
